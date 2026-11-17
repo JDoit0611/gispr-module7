@@ -18,3 +18,4 @@ __pycache__/
 
 # course data zips
 *.zip
+.backups/
