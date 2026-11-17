@@ -1,0 +1,17 @@
+# raw course data - too big, not mine
+data/
+
+# big or local-only outputs
+*.tif
+*.gdb/
+*.aprx
+*.lock
+
+# blank course copy of the notebook
+GISPR_Module7_Visualization.ipynb
+
+# junk
+.ipynb_checkpoints/
+.Rhistory
+.RData
+__pycache__/
