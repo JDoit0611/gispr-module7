@@ -15,3 +15,6 @@ GISPR_Module7_Visualization.ipynb
 .Rhistory
 .RData
 __pycache__/
+
+# course data zips
+*.zip
